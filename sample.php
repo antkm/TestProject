@@ -1,4 +1,4 @@
 <?php
     $temp = 1;
-    echo $temp;
+    echo 'git 프로젝트';
 ?>
